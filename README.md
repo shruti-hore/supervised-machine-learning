@@ -14,11 +14,10 @@ The following supervised learning algorithms are being implemented:
 1. Simple Linear Regression  
 2. Multiple Linear Regression  
 3. Polynomial Regression  
-4. Ridge Regression  
-5. Lasso Regression  
-6. K-Nearest Neighbors (KNN)  
-7. Decision Tree  
-8. Logistic Regression  
-9. Support Vector Machine (SVM)  
-10. Naïve Bayes  
-11. Ensemble Methods  
+4. Ridge & Lasso Regression  
+5. K-Nearest Neighbors (KNN)  
+6. Decision Tree  
+7. Logistic Regression  
+8. Support Vector Machine (SVM)  
+9. Naïve Bayes  
+10. Ensemble Methods  
